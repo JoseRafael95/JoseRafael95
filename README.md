@@ -8,7 +8,7 @@
 >Sou formado em Engenharia Mecânica, mas sempre fui apaixonado por tecnologia.
 >Atualmente, estou cursando uma pós-graduação em **Engenharia de Software**, onde venho aprofundando meus conhecimentos principalmente em **desenvolvimento backend** e **computação em nuvem**.
 >Recentemente, conquistei uma bolsa de estudos em **Engenharia da Computação**, o que tem ampliado ainda mais minha visão sobre o universo da tecnologia.
->Minha jornada começou com **Python**, explorando análise de dados e inteligência artificial, mas foi com o **Java** que descobri minha verdadeira paixão, graças à sua complexidade, robustez e ampla aplicação >no mercado.
+>Minha jornada começou com **Python**, explorando análise de dados e inteligência artificial, mas foi com o **Java** que descobri minha verdadeira paixão, graças à sua complexidade, robustez e ampla aplicação no mercado.
 
 ---
 <div align="center">
