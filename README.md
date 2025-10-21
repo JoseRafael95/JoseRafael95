@@ -1,45 +1,62 @@
+# Olá, eu sou José Rafael! 👋
 
-## José Rafael
+### Desenvolvedor Backend Java focado em resolver problemas, fascinado por tecnologia e inovação.
 
-#### **`Desenvolvedor Java Backend`**  **`Analista de Dados`**
+Sou um estudante de desenvolvimento backend focado no ecossistema Java e Spring. Minha paixão por tecnologia me mantém em constante evolução: atualmente, estou cursando uma **pós-graduação em Engenharia de Software** e uma **nova graduação na área de Tecnologia**. Meu objetivo é aplicar esse conhecimento para construir soluções robustas, escaláveis e eficientes.
 
+<br>
 
->Olá! Me chamo José Rafael  
->Sou formado em Engenharia Mecânica, mas sempre fui apaixonado por tecnologia.
->Atualmente, estou cursando uma pós-graduação em **Engenharia de Software**, onde venho aprofundando meus conhecimentos principalmente em **desenvolvimento backend** e **computação em nuvem**.
->Recentemente, conquistei uma bolsa de estudos em **Engenharia da Computação**, o que tem ampliado ainda mais minha visão sobre o universo da tecnologia.
->Minha jornada começou com **Python**, explorando análise de dados e inteligência artificial, mas foi com o **Java** que descobri minha verdadeira paixão, graças à sua complexidade, robustez e ampla aplicação no mercado.
+## 🔗 Conecte-se Comigo
 
----
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-rafael-s-ferreira/)
+<br>
 
----
-<div align="center">
-  <a href="https://www.linkedin.com/in/rafael-ferreira-55a804336/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+## 💻 Tecnologias e Ferramentas
 
+Minha stack principal para desenvolvimento de aplicações backend:
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+* **Linguagem:** Java
+* **Frameworks:** Spring Boot, Spring Security
+* **Banco de Dados:** MySQL, PostgreSQL (e bancos em memória como H2)
+* **DevOps:** Docker, Git
+* **Conceitos:** Microserviços, API REST, Testes Unitários
+
+<br>
+
+## 🚀 Projetos Principais
+
+Aqui estão alguns projetos que demonstram minhas habilidades na prática:
+
+### 1. Sistema de Transferência de Valores (Estilo PicPay)
+* **Repositório:** [https://github.com/JoseRafael95/SistemaDeTransferencia](https://github.com/JoseRafael95/SistemaDeTransferencia)
+* **Descrição:** API REST que simula transferências de valores entre usuários (Pessoa Física e Lojista), implementando regras de negócio complexas, autorização de serviços externos e tratamento de notificações.
+* **Tecnologias:** `Java`, `Spring Boot`, `Spring Data JPA`, `WebClient`, `H2 Database`.
+
+### 2. API de Estatísticas de Transações (Estilo Itaú)
+* **Repositório:** [https://github.com/JoseRafael95/ApiEstatisticasTransacoes](https://github.com/JoseRafael95/ApiEstatisticasTransacoes)
+* **Descrição:** API REST para cálculo de resumos estatísticos de transações financeiras em tempo real. O foco foi construir uma solução eficiente, robusta e com alta cobertura de testes.
+* **Tecnologias:** `Java`, `Spring Boot`, `Banco em Memória`, `Testes Unitários (JUnit)`.
+
+### 3. API de Controle de Gastos Pessoais
+* **Repositório:** [https://github.com/JoseRafael95/ControleGastos](https://github.com/JoseRafael95/ControleGastos)
+* **Descrição:** API para gerenciamento de despesas e receitas pessoais. Este projeto foi fundamental para aplicar conceitos de autenticação e autorização de ponta a ponta.
+* **Tecnologias:** `Java`, `Spring Boot`, `Spring Security (com JWT)`, `Spring Data JPA`, `Testes Unitários`.
+
+<br>
+
+## 🌱 Evolução e Aprendizado
+
+Estou sempre buscando aprimorar minhas habilidades e conhecimentos.
+
+* **Estudando no momento:**
+    * Microserviços (Comunicação assíncrona com RabbitMQ e Kafka)
+    * Estrutura de Dados e Algoritmos (aperfeiçoamento)
+
+* **Próximos passos:**
+    * Arquitetura Hexagonal
+    * Clean Architecture (Arquitetura Limpa)
