@@ -8,7 +8,7 @@ Sou um estudante de desenvolvimento backend focado no ecossistema Java e Spring.
 
 ## 🔗 Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j-rafael-s-ferreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/joserafael-sf/)
 <br>
 
 ## 💻 Tecnologias e Ferramentas
